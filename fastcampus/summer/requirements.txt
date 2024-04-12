@@ -1,0 +1,4 @@
+transformers
+datasets
+ipykernel
+jupyterlab>=4.1.6
